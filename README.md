@@ -4,5 +4,6 @@ This is my professional portfolio.  It uses AWS, ReactJS, VueJS and Laravel.
 
 ## Technologies Used:
 
+Brew
 Git and Github
 SSH
