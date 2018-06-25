@@ -30,7 +30,7 @@ const myWork = [
         'desc': "Sartorial paleo kitsch bespoke, pok pok cray whatever gentrify stumptown vinyl marfa austin. Tilde brooklyn shabby chic sartorial af enamel pin, asymmetrical pabst bitters master cleanse readymade. Seitan gochujang microdosing swag lo-fi yr street art dreamcatcher la croix everyday carry vegan echo park vaporware. Sartorial biodiesel tattooed actually typewriter cloud bread tofu umami intelligentsia succulents. Biodiesel venmo kogi, hexagon tousled tote bag cronut keffiyeh shoreditch selvage scenester edison bulb ennui vinyl. Small batch tattooed cloud bread, bitters tacos messenger bag plaid la croix microdosing. Neutra godard tote bag cold-pressed, tilde austin iceland.",
         'image': {
             'desc': "example screenshot of a project involving cats",
-            'src': "images/Uss_hunley.jpeg",
+            'src': "images/Uss_hunley.jpg",
             'comment': `"Bengal cat” by roberto shabs is licensed under CC BY 2.0
                     https://www.flickr.com/photos/37287295@N00/2540855181`
         }
