@@ -1,12 +1,13 @@
-import React from 'react';
+import React, { Component } from 'react'
 
-class ExampleWorkBubble extends React.Component {
+class ExampleWorkBubble extends Component {
     render() {
 
         let example = this.props.example;
 
         return (
-            <div className="section__exampleWrapper">
+            <div className="section__exampleWrapper"
+                onClick={(evt) => this.props.openModal(evt, example)} >
                 <div className="section__example">
                 <img alt={example.image.desc}
                     className="section__exampleImage"
@@ -20,7 +21,7 @@ class ExampleWorkBubble extends React.Component {
                 </div>
             </div>
         )
-    }
-}
+    };
+};
 
-export default ExampleWorkBubble
+export default ExampleWorkBubble;
