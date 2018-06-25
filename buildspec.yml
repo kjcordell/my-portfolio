@@ -8,7 +8,6 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon.ico
     - styles/main.css
     - images/*
     - dist/bundle.js
